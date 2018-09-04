@@ -1,0 +1,1 @@
+git clone https://dev-clouddeveloper-jonas-widenberg-spoton-se.scm.s1.umbraco.io/0be7e21a-1da9-4527-8678-450228b38191.git SpotOn.Web
